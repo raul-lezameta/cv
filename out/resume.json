@@ -1,0 +1,120 @@
+{
+  "basics": {
+    "label": "Bsc - Geodäsie und Geoinformatik",
+    "website": "https://gitlab.com/raul.lezameta/cv",
+    "phone": "+39 373 8747945",
+    "email": "lezametaraul@gmail.com",
+    "other": [],
+    "name": "Raul Lezameta",
+    "summary": "Masters student of [Geodesy and Geoinformation](https://www.tuwien.at/en/studies/studies/master-programmes/geodesy-and-geoinformation/) at **TU Vienna**",
+    "picture": "",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "your-github-username",
+        "url": "https://github.com/your-github-username"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Südtiroler Informatik AG",
+      "website": "http://www.siag.it/",
+      "position": "Internhsip",
+      "startDate": "2017-07",
+      "endDate": "2017-08",
+      "summary": "GIS tasks"
+    },
+    {
+      "company": "TU Vienna",
+      "website": "https://www.tuwien.at/en/",
+      "position": "Tutor",
+      "startDate": "2009-07",
+      "endDate": "2013-10",
+      "summary": "Tutoring of the courses **Web Mapping** and **Multimedia Cartography**",
+      "highlights": [
+        "Map creation with web technologies",
+        "Adding **animation** and **interactivity** to web maps (video maps, ...)"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "TU Vienna",
+      "startDate": "2015-10",
+      "endDate": "2018-10"
+    },
+    {
+      "institution": "TU Vienna",
+      "startDate": "2018-10",
+      "endDate": "Present"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data science",
+      "level": "advanced",
+      "keywords": [
+        "Pyhton",
+        "Matlab",
+        "HTML 5"
+      ]
+    },
+    {
+      "name": "GIS software",
+      "level": "advanced",
+      "keywords": [
+        "QGIS",
+        "ArcMap"
+      ]
+    },
+    {
+      "name": "Web development",
+      "level": "intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "summary_HIDE": "",
+      "highlights": [
+        "Football",
+        "Badminton",
+        "Volleyball",
+        "Basketball"
+      ]
+    },
+    {
+      "name": "Web, technology and IT",
+      "summary_HIDE": "Avid chess player.",
+      "highlights": [
+        "FOSS - Free Open Source Software",
+        "Linux",
+        "Android"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "level": "native"
+    },
+    {
+      "language": "Spanish",
+      "level": "advanced"
+    },
+    {
+      "language": "Italian",
+      "level": "advanced"
+    },
+    {
+      "language": "English",
+      "level": "advanced"
+    }
+  ]
+}

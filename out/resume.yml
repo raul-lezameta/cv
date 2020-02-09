@@ -1,0 +1,311 @@
+name: 'Raul Lezameta'
+meta:
+  format: FRESH@0.6.0
+  version: 0.1.0
+info:
+  label: 'Bsc - Geodäsie und Geoinformatik'
+  brief: 'Masters student of [Geodesy and Geoinformation](https://www.tuwien.at/en/studies/studies/master-programmes/geodesy-and-geoinformation/) at **TU Vienna**'
+  image: ""
+contact:
+  website: 'https://gitlab.com/raul.lezameta/cv'
+  phone: '+39 373 8747945'
+  email: lezametaraul@gmail.com
+  other: []
+location:
+  address: '123 Somewhere Lane'
+  city: 'Castle Rock'
+  region: 'State, province, or region'
+  code: '90210'
+  country: US
+social:
+  -
+    label: ""
+    network: GitHub
+    user: your-github-username
+    url: 'https://github.com/your-github-username'
+employment:
+  summary: 'Optional overall employment summary. Not used in most themes.'
+  history:
+    -
+      employer: 'Südtiroler Informatik AG'
+      url: 'http://www.siag.it/'
+      position: Internhsip
+      summary: 'GIS tasks'
+      start: 2017-07
+      end: 2017-08
+      keywords_HIDE:
+        - 'spin widgets'
+        - CRM
+        - PM
+        - Ninjitsu
+        - 'Six Sigma'
+      highlights_HIDE:
+        - 'Increased profits on left-handed spin widgets by 35%.'
+        - 'Participated in iterative/incremental devolution.'
+        - 'Promoted to Head Ninja after 500 successful cage matches.'
+    -
+      employer: 'TU Vienna'
+      url: 'https://www.tuwien.at/en/'
+      position: Tutor
+      summary: 'Tutoring of the courses **Web Mapping** and **Multimedia Cartography**'
+      start: 2009-07
+      end: 2013-10
+      keywords:
+        - 'Assistance for students;'
+        - 'Assessments of submitions'
+      highlights:
+        - 'Map creation with web technologies'
+        - 'Adding **animation** and **interactivity** to web maps (video maps, ...)'
+projects_HIDE:
+  -
+    title: 'Awesome Project #1'
+    category: FOSS
+    url: 'http://project-page.org'
+    repo: 'https://project-repo.com'
+    media: []
+    role: Contributor
+    summary: 'Show off your project work with a Markdown-and-HTML friendly summary of your role on the project. Software projects, creative projects, business projects can all appear here.'
+    description: 'A description of the project, for audiences that may not be familiar with it. Like the summary section, can include **Markdown** and inline <strong>HTML</strong> formatting.'
+    highlights:
+      - 'Project Highlight #1'
+      - 'Project Highlight #2'
+      - 'Project Highlight #3'
+    keywords:
+      - Tag1
+      - Tag2
+      - Tag3
+      - Tag4
+  -
+    title: Asteroids
+    category: FOSS
+    url: 'http://asteroids-demo.org'
+    repo: 'https://asteroids-repo.com'
+    media: []
+    role: Creator
+    summary: 'Conceived, designed, implemented, and created 3D Asteroids space shooter with Unreal Engine IV and C++.'
+    description: 'A 3D Asteroids clone with Unreal 4 and cross-platform C++.'
+    highlights:
+      - 'Project Highlight #1'
+      - 'Project Highlight #2'
+      - 'Project Highlight #3'
+    keywords:
+      - C++
+      - 'Unreal Engine'
+      - 3D
+      - DirectX
+education:
+  summary: 'Optional overall education summary. Not used in most themes.'
+  level: degree
+  degree: Bsc
+  history:
+    -
+      institution: 'TU Vienna'
+      title: 'Bsc Geodesy and Geoinformation'
+      url: 'https://www.tuwien.at/en/'
+      start: 2015-10
+      end: 2018-10
+      grade_comment: '3.5'
+      summary_comment: '* Graduate   * of Acme University, summer of 2009. Go [Coyotes](https://en.wikipedia.org/wiki/Coyote)!'
+      curriculum_HIDE:
+        - 'Remote Sensing,'
+        - 'Geoinformation,'
+        - 'Geophysics,'
+        - 'Higher Geodesy,'
+        - 'Engineering Geodesy,'
+        - 'Cartography,'
+        - Photogrammetry
+      highlights:
+        - 'Remote Sensing'
+        - Geoinformation
+        - Geophysics
+        - 'Higher Geodesy'
+        - 'Engineering Geodesy'
+        - Cartography
+        - Photogrammetry
+    -
+      institution: 'TU Vienna'
+      title: 'Msc Geodesy and Geoinformation'
+      url: 'https://www.tuwien.at/en/'
+      start: 2018-10
+      end: Present
+      grade_comment: '3.5'
+      summary_comment: '* Graduate   * of Acme University, summer of 2009. Go [Coyotes](https://en.wikipedia.org/wiki/Coyote)!'
+      curriculum_HIDE:
+        - 'Remote Sensing,'
+        - 'Geoinformation,'
+        - 'Geophysics,'
+        - 'Higher Geodesy,'
+        - 'Engineering Geodesy,'
+        - 'Cartography,'
+        - Photogrammetry
+      highlights:
+        - 'Remote Sensing'
+        - Geoinformation
+        - Geophysics
+        - 'Higher Geodesy'
+        - 'Engineering Geodesy'
+        - Cartography
+        - Photogrammetry
+service_HIDE:
+  summary: ""
+  history:
+    -
+      flavor: volunteer
+      position: 'Volunteer Coordinator'
+      organization: 'The Mommies Network'
+      url: 'http://themommiesnetwork.org'
+      start: 2006-06
+      summary: 'A summary of your volunteer experience at this organization. Can include **Markdown** and inline <strong>HTML</strong> formatting.'
+      highlights: []
+    -
+      flavor: military
+      position: MOS
+      organization: 'Air Force'
+      url: 'https://service-website.mil'
+      start: '2004'
+      summary: 'A summary of your service experience with this organization. Can include **Markdown** and inline <strong>HTML</strong> formatting.'
+      highlights: []
+skills:
+  sets:
+    -
+      name: 'Data science'
+      level: advanced
+      skills:
+        - Pyhton
+        - Matlab
+        - 'HTML 5'
+    -
+      name: 'GIS software'
+      level: advanced
+      skills:
+        - QGIS
+        - ArcMap
+    -
+      name: 'Web development'
+      level: intermediate
+      skills:
+        - HTML
+        - CSS
+        - JavaScript
+  list: []
+samples_HIDE:
+  -
+    title: 'Work Sample #1'
+    summary: 'A technical or creative **work sample**.'
+    url: 'http://project-repo.com'
+    date: '2015'
+  -
+    title: 'Creative Sample #2'
+    summary: 'Another technical or creative sample. You can use [Markdown](https://daringfireball.net/projects/markdown/) here.'
+    url: 'http://project-repo.com'
+    date: '2015'
+writing_HIDE:
+  -
+    title: 'My Blog'
+    publisher:
+      name: Medium.com
+      url: 'https://medium.com'
+    flavor: blog
+    date: '2010'
+    summary: 'Your blog or online home.'
+    url: 'http://coding-snorer.com'
+  -
+    title: 'Something I Wrote Once'
+    flavor: essay
+    date: '2009'
+    summary: 'List your blogs, articles, essays, novels, and dissertations.'
+    publisher:
+      name: 'Acme University Press'
+      url: 'http://press.acmeuniversity.edu'
+    url: 'http://codeproject.com/something-i-wrote-once'
+reading_HIDE:
+  -
+    title: 'Other Copenhagens'
+    flavor: book
+    url: 'http://www.amazon.com/Other-Copenhagens-And-Stories/dp/0984749209'
+    author: 'Edmund Jorgensen'
+  -
+    title: r/programming
+    flavor: website
+    url: 'https://www.reddit.com/r/programming'
+  -
+    title: 'Hacker News'
+    flavor: website
+    url: 'https://news.ycombinator.com/'
+recognition_HIDE:
+  -
+    flavor: award
+    from: HackMyResume
+    title: 'Awesomeness Award'
+    event: 'HMR Release'
+    url: 'https://fluentdesk.com/hackmyresume'
+    date: '2016'
+    summary: 'Thanks for being a HackMyResume / FluentCV user!'
+  -
+    flavor: industry
+    from: 'Big Software'
+    title: 'MVP: SpinWidget Technology'
+    event: 'Yearly Roundup'
+    date: '2015-08-03'
+    summary: 'For work in promotion and popularization of SpinWidget technology.'
+references_HIDE:
+  -
+    name: 'John Doe'
+    category: professional
+    role: 'Manager @ Somewhere Inc.'
+    private: true
+    summary: 'Contact information available on request.'
+    contact:
+      -
+        flavor: email
+        value: john.doe@somewhere.com
+  -
+    name: 'Jane Q. Fullstacker'
+    category: technical
+    summary: 'Contact information available on request.'
+    role: Coworker
+    private: true
+    contact:
+      -
+        flavor: email
+        value: jane.fullstacker@somewhere.com
+testimonials_HIDE:
+  -
+    name: 'John Doe'
+    flavor: professional
+    quote: 'Such-and-such is awesome! I''d hire him/her again in a second!'
+    private: false
+  -
+    name: 'Somebody Important'
+    flavor: technical
+    quote: 'Hands-down *the best developer/manager/spelunker/coworker/etc* I''ve ever worked with. Emphasis *mine!*'
+    private: false
+languages:
+  -
+    language: German
+    level: native
+  -
+    language: Spanish
+    level: advanced
+  -
+    language: Italian
+    level: advanced
+  -
+    language: English
+    level: advanced
+interests:
+  -
+    name: Sports
+    summary_HIDE: ""
+    highlights:
+      - Football
+      - Badminton
+      - Volleyball
+      - Basketball
+  -
+    name: 'Web, technology and IT'
+    summary_HIDE: 'Avid chess player.'
+    highlights:
+      - 'FOSS - Free Open Source Software'
+      - Linux
+      - Android
