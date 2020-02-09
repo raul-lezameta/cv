@@ -10,24 +10,24 @@
     "image": ""
   },
   "contact": {
-    "website": "https://gitlab.com/raul.lezameta/cv",
+    "website": "https://raul-lezameta.github.io/cv",
     "phone": "+39 373 8747945",
     "email": "lezametaraul@gmail.com",
     "other": []
   },
   "location": {
-    "address": "123 Somewhere Lane",
-    "city": "Castle Rock",
-    "region": "State, province, or region",
-    "code": "90210",
-    "country": "US"
+    "address": "",
+    "city": "",
+    "region": "",
+    "code": "",
+    "country": ""
   },
   "social": [
     {
       "label": "",
       "network": "GitHub",
-      "user": "your-github-username",
-      "url": "https://github.com/your-github-username"
+      "user": "raul-lezameta",
+      "url": "https://github.com/raul-lezameta"
     }
   ],
   "employment": {
@@ -58,8 +58,8 @@
         "url": "https://www.tuwien.at/en/",
         "position": "Tutor",
         "summary": "Tutoring of the courses **Web Mapping** and **Multimedia Cartography**",
-        "start": "2009-07",
-        "end": "2013-10",
+        "start": "2018-03",
+        "end": "Present",
         "keywords": [
           "Assistance for students;",
           "Assessments of submitions"
@@ -206,8 +206,7 @@
         "level": "advanced",
         "skills": [
           "Pyhton",
-          "Matlab",
-          "HTML 5"
+          "Matlab"
         ]
       },
       {
@@ -222,7 +221,7 @@
         "name": "Web development",
         "level": "intermediate",
         "skills": [
-          "HTML",
+          "HTML5",
           "CSS",
           "JavaScript"
         ]
